@@ -1,7 +1,7 @@
 ezDBug
 ======
 ## What is it ?
-HTML/CSS/JS Remote Debugger for crap devices
+HTML/CSS/JS Remote Debugger for devices
 
 ## How is it works?
 It is constantly looking for changes on your sandbox and updating the css.
